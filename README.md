@@ -1,5 +1,5 @@
 # Projet SAÉ S101 - Implémentation
-Première partie de la SAÉ S102. Ce projet a été réalisé dans le cadre de la SAÉ S205 du BUT Informatique (IUT Villetaneuse Université Sorbonne Paris Nord).
+Première partie de la SAÉ S102 - Comparaison d'algorithme. Ce projet a été réalisé dans le cadre de la SAÉ S205 du BUT Informatique (IUT Villetaneuse Université Sorbonne Paris Nord).
 
 Nous avons étudié et analysé en duo les interactions sociales au sein d'un réseau modélisé sous forme de graphe. L'objectif était de développer des fonctions permettant d'extraire des informations sur les communautés présentes dans le réseau.
 
